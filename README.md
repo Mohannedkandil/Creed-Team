@@ -1,8 +1,3 @@
-
-![image](https://user-images.githubusercontent.com/18647990/123992909-4b035f00-d9cc-11eb-97d1-969248ff6e4a.png)
-![image](https://user-images.githubusercontent.com/18647990/123992943-535b9a00-d9cc-11eb-8689-963cbe96fcc9.png)
-
-
 # Creed application
 Our main business targets are
 To build a website and mobile application to be an 
@@ -13,8 +8,8 @@ The main aim is to help divers identify different types of fishes during there d
   
 ## Screenshots
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/18647990/123992909-4b035f00-d9cc-11eb-97d1-969248ff6e4a.png" width="200" height="450" />
-  <img src="https://user-images.githubusercontent.com/18647990/123992943-535b9a00-d9cc-11eb-8689-963cbe96fcc9.png" width="200" height="450" /> 
+  <img src="https://user-images.githubusercontent.com/18647990/123992909-4b035f00-d9cc-11eb-97d1-969248ff6e4a.png" width="500" height="450" />
+  <img src="https://user-images.githubusercontent.com/18647990/123992943-535b9a00-d9cc-11eb-8689-963cbe96fcc9.png" width="500" height="450" /> 
 
 </p>
 
